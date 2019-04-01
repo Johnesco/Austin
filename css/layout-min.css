@@ -1,0 +1,101 @@
+html {
+  font-family: serif;
+}
+
+.resume {
+  margin: 10px 10px auto 99px;
+  padding: 1px 10px 10px 10px;
+  overflow: auto;
+}
+
+.name {
+  font-family: sans-serif;
+  font-size:35px;
+}
+
+.job, .school-list, .intro, .header{
+  padding: 18px;
+  margin: 10px 0 10px 0;
+}
+
+.header-name {
+  float:left;
+  margin:0;
+}
+.header-contact {
+  text-align: right;
+}
+
+.overview {
+  margin-bottom: 22px;
+}
+
+h2 {
+  font-size: 22px;
+  text-align: center;
+  border-radius: 25px 25px 0 0;
+  padding: 10px;
+
+  margin-bottom:0;
+  display: inline-block;
+  
+}
+
+h2 + .job, h2 + .school-list{
+  margin-top: 0;
+  border-top-left-radius: 0;
+
+
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}    
+
+.work-experience{
+  width:600px;
+  float:right;
+  color:blue;
+}
+
+.job-title {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.job-date {
+  font-size:18px;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+.job-name {
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16pt;
+}
+.job-details {
+  font-size: 11pt;
+  padding-left: 20px;
+}
+
+
+div.intro > p{
+  padding-left: 22px;
+  text-indent: -22px;
+  margin-bottom:10px;
+}
+
+.education-training{
+  margin:0;
+}
+
+.institution{
+  margin: 10px;
+}
+
+.school-date{
+  font-weight: bold;
+}
