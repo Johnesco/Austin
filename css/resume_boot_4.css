@@ -1,0 +1,38 @@
+body{ background-color:#EEECEE;}
+
+#name {
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #1144cc;
+}
+
+.resume {
+  background-color:#FFFFFF;
+  margin-top:2em;
+  margin-bottom: 2em;
+  padding-top:3em;
+}
+
+#title {
+  color:#1144aa
+}
+
+p.school-title  {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+
+h2 {
+  margin-top: .66em;
+}
+
+.job{
+  padding-top: 2em;
+}
+
+.job-heading {
+  color: #374ba4; 
+}
+
+strong{ color: #1133cc};

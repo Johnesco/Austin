@@ -1,0 +1,36 @@
+.themebox{
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+.theme{
+  width: 20px;
+  /*display: inline-block;*/
+  height:20px;
+  margin: 4px;
+  background-color: white;
+}
+
+
+#color0{
+  background: lightblue;
+
+}
+
+#color1{
+  background: blue;
+}
+
+#color2{
+  background: navy;
+}
+
+#theme0{
+  background-color: purple;
+}
+
+#theme1{
+  background-color: purple;
+}
+
